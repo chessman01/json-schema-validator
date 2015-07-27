@@ -28,6 +28,7 @@ import com.github.fge.jsonschema.main.JsonSchemaFactory;
 import java.io.IOException;
 
 /**
+ * 通用的校验例子，用此例即可
  * First example: basic usage
  *
  * <p><a href="doc-files/Example1.java">link to source code</a></p>

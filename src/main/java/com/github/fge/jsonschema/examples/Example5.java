@@ -33,6 +33,8 @@ import com.github.fge.jsonschema.main.JsonSchemaFactoryBuilder;
 import java.io.IOException;
 
 /**
+ * 设置URI命名空间，相对URI解析
+ * 这个最大特点是通过命名空间，可找到多个同位置的文件，直接组装大的SCHEMA
  * Fifth example: setting a URI namespace; relative URI resolution
  *
  * <p><a href="doc-files/Example5.java">link to source code</a></p>

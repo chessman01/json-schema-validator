@@ -28,6 +28,7 @@ import com.github.fge.jsonschema.main.JsonSchemaFactory;
 import java.io.IOException;
 
 /**
+ * 通过URIs和subschema地址获取schema
  * Fourth example: schema loading via URIs, and subschema addressing
  *
  * <p><a href="doc-files/Example4.java">link to source code</a></p>

@@ -166,6 +166,7 @@ public final class Example9
 
     /*
      * Our custom syntax checker
+     * 检查定义的value是否正确
      */
     private static final class DivisorsSyntaxChecker
         extends AbstractSyntaxChecker
@@ -246,6 +247,7 @@ public final class Example9
 
     /*
      * Our custom digester
+     * 用来过程中用的，生成JsonNode
      *
      * We take the opportunity to build a digested form where, for instance,
      * [ 3, 5 ] and [ 5, 3 ] give the same digest.
@@ -292,6 +294,7 @@ public final class Example9
 
 
     /**
+     * 最终的校验器，检查数据是否OK
      * Custom keyword validator for {@link Example9}
      *
      * It must be {@code public} because it is built by reflection.

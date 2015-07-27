@@ -32,6 +32,7 @@ import com.github.fge.jsonschema.main.JsonSchemaFactory;
 import java.io.IOException;
 
 /**
+ * 把schema的获取从一个地址重定向到另一个地址
  * Sixth example: URI redirection
  *
  * <p><a href="doc-files/Example6.java">link to source code</a></p>

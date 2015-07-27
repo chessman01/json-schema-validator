@@ -31,6 +31,7 @@ import com.github.fge.jsonschema.main.JsonSchemaFactory;
 import java.io.IOException;
 
 /**
+ * 把一个URI加载的SCHEMA预加功注册为另一个地址
  * Tenth example: registering schemas
  *
  * <p><a href="doc-files/Example10.java">link to source code</a></p>

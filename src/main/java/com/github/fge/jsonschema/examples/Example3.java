@@ -28,6 +28,7 @@ import com.github.fge.jsonschema.main.JsonSchemaFactory;
 import java.io.IOException;
 
 /**
+ * 仅支持草案3可不支持。
  * Third example: draft v3 detection via {@code $schema}
  *
  * <p><a href="doc-files/Example3.java">link to source code</a></p>

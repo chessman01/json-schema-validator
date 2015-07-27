@@ -42,6 +42,7 @@ import java.io.IOException;
 import java.util.UUID;
 
 /**
+ * 扩展自定义format属性
  * Eighth example: augmenting schemas with custom format attributes
  *
  * <p><a href="doc-files/Example8.java">link to source code</a></p>

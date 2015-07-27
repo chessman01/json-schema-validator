@@ -33,6 +33,7 @@ import java.io.InputStream;
 import java.net.URI;
 
 /**
+ * 定制化加载器，就可以控制从某个地方加载了
  * Seventh example: custom URI scheme
  *
  * <p><a href="doc-files/Example7.java">link to source code</a></p>

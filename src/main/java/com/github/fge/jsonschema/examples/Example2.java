@@ -31,6 +31,7 @@ import com.github.fge.jsonschema.main.JsonSchemaFactoryBuilder;
 import java.io.IOException;
 
 /**
+ * 内联查找，我们的schema可不支持，因为规范中说了，是可以实现。但如果实现，要明确告诉这个是内联模式的。
  * Second example: inline schema addressing
  *
  * <p><a href="doc-files/Example2.java">link to source code</a></p>
